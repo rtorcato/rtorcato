@@ -32,21 +32,21 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
 
 #### 📦 Libraries
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="top">
+    <td width="33%" valign="top">
       <a href="https://github.com/rtorcato/swift-common">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=swift-common&theme=github_dark&card_width=400" alt="swift-common" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=swift-common&theme=github_dark" alt="swift-common" />
       </a>
     </td>
-    <td valign="top">
+    <td width="33%" valign="top">
       <a href="https://github.com/rtorcato/browser-common">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=browser-common&theme=github_dark&card_width=400" alt="browser-common" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=browser-common&theme=github_dark" alt="browser-common" />
       </a>
     </td>
-    <td valign="top">
+    <td width="33%" valign="top">
       <a href="https://github.com/rtorcato/js-common">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=js-common&theme=github_dark&card_width=400" alt="js-common" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=js-common&theme=github_dark" alt="js-common" />
       </a>
     </td>
   </tr>
@@ -54,11 +54,17 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
 
 #### 🛠️ Tooling
 
-<p>
-  <a href="https://github.com/rtorcato/js-tooling">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=js-tooling&theme=github_dark&card_width=400" alt="js-tooling" />
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/rtorcato/js-tooling">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=js-tooling&theme=github_dark" alt="js-tooling" />
+      </a>
+    </td>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
+</table>
 
 ---
 
