@@ -30,19 +30,19 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td valign="top">
       <a href="https://github.com/rtorcato/swift-common">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=swift-common&theme=github_dark" alt="swift-common" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=swift-common&theme=github_dark&card_width=400" alt="swift-common" />
       </a>
     </td>
-    <td width="33%" valign="top">
+    <td valign="top">
       <a href="https://github.com/rtorcato/browser-common">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=browser-common&theme=github_dark" alt="browser-common" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=browser-common&theme=github_dark&card_width=400" alt="browser-common" />
       </a>
     </td>
-    <td width="33%" valign="top">
+    <td valign="top">
       <a href="https://github.com/rtorcato/js-common">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=js-common&theme=github_dark" alt="js-common" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=js-common&theme=github_dark&card_width=400" alt="js-common" />
       </a>
     </td>
   </tr>
@@ -50,31 +50,11 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
 
 #### 🛠️ Tooling
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/js-tooling">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=js-tooling&theme=github_dark" alt="js-tooling" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/vibe-start">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=vibe-start&theme=github_dark" alt="vibe-start" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary><b>More detail on each project</b></summary>
-
-- **[swift-common](https://github.com/rtorcato/swift-common)** — Cross-platform SwiftUI utility package (iOS / macOS / tvOS / watchOS). Ships `MatrixSwiftBaseCore` (pure Foundation) and `MatrixSwiftBaseUI` (SwiftUI components).
-- **[browser-common](https://github.com/rtorcato/browser-common)** — Typed wrappers around browser Web APIs (clipboard, geolocation, mediaDevices, observers, storage, more).
-- **[js-common](https://github.com/rtorcato/js-common)** — Shared utility functions for TypeScript / JavaScript projects.
-- **[js-tooling](https://github.com/rtorcato/js-tooling)** — One wizard to scaffold TypeScript projects: linting, testing, semantic-release, GitHub Actions. Stop re-configuring the same five tools on every new repo.
-- **[vibe-start](https://github.com/rtorcato/vibe-start)** — An optimal "vibecoding" setup across VS Code, Claude, and Cursor.
-
-</details>
+<p>
+  <a href="https://github.com/rtorcato/js-tooling">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=js-tooling&theme=github_dark&card_width=400" alt="js-tooling" />
+  </a>
+</p>
 
 ---
 
