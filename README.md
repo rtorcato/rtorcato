@@ -28,28 +28,42 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
 
 #### 📦 Libraries
 
-<div align="center">
-  <a href="https://github.com/rtorcato/swift-common">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=swift-common&theme=github_dark&hide_border=true&card_width=320" alt="swift-common" />
-  </a>
-  <a href="https://github.com/rtorcato/browser-common">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=browser-common&theme=github_dark&hide_border=true&card_width=320" alt="browser-common" />
-  </a>
-  <a href="https://github.com/rtorcato/js-common">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=js-common&theme=github_dark&hide_border=true&card_width=320" alt="js-common" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/rtorcato/swift-common">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=swift-common&theme=github_dark" alt="swift-common" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/rtorcato/browser-common">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=browser-common&theme=github_dark" alt="browser-common" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/rtorcato/js-common">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=js-common&theme=github_dark" alt="js-common" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 #### 🛠️ Tooling
 
-<div align="center">
-  <a href="https://github.com/rtorcato/js-tooling">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=js-tooling&theme=github_dark&hide_border=true&card_width=320" alt="js-tooling" />
-  </a>
-  <a href="https://github.com/rtorcato/vibe-start">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=vibe-start&theme=github_dark&hide_border=true&card_width=320" alt="vibe-start" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rtorcato/js-tooling">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=js-tooling&theme=github_dark" alt="js-tooling" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rtorcato/vibe-start">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=vibe-start&theme=github_dark" alt="vibe-start" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><b>More detail on each project</b></summary>
@@ -78,7 +92,7 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rtorcato&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rtorcato&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtorcato&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
@@ -95,7 +109,7 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rtorcato&theme=github_dark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rtorcato&theme=gitdimmed&no-frame=true&margin-w=10&column=7" alt="GitHub trophies" />
 </p>
 
 ---
