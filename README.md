@@ -30,39 +30,30 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
 
 ## 🌟 Featured projects
 
-#### 📦 Libraries
-
-<table width="100%">
+<table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://github.com/rtorcato/swift-common">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=swift-common&theme=github_dark" alt="swift-common" />
       </a>
     </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/rtorcato/browser-common">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=browser-common&theme=github_dark" alt="browser-common" />
-      </a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/rtorcato/js-common">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=js-common&theme=github_dark" alt="js-common" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-#### 🛠️ Tooling
-
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://github.com/rtorcato/js-tooling">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=js-tooling&theme=github_dark" alt="js-tooling" />
       </a>
     </td>
-    <td width="33%"></td>
-    <td width="33%"></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rtorcato/browser-common">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=browser-common&theme=github_dark" alt="browser-common" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rtorcato/js-common">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=js-common&theme=github_dark" alt="js-common" />
+      </a>
+    </td>
   </tr>
 </table>
 
