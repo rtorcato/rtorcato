@@ -7,7 +7,9 @@ I'm a full-stack developer who has built internet and interactive applications f
 Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) and Apple platforms (Swift / SwiftUI). 
 
 📄 **Resume:** [resume.matrixdigital.com](https://resume.matrixdigital.com)
+
 🏢 **Agency:** [Matrix Digital Solutions](https://matrixdigital.com) (founded 1997)
+
 💼 **LinkedIn:** [linkedin.com/in/rtorcato](https://www.linkedin.com/in/rtorcato/)
 
 ---
