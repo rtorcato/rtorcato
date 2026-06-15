@@ -36,13 +36,13 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
       <a href="https://github.com/rtorcato/swift-common">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=swift-common&theme=github_dark" alt="swift-common" />
       </a>
-      <p align="center">📖 <a href="https://rtorcato.github.io/swift-common/">Docs</a></p>
+      <p align="center">📖 <a href="https://rtorcato.github.io/swift-common/">swift-common Docs</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/rtorcato/js-tooling">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=js-tooling&theme=github_dark" alt="js-tooling" />
       </a>
-      <p align="center">📖 <a href="https://rtorcato.github.io/js-tooling/">Docs</a></p>
+      <p align="center">📖 <a href="https://rtorcato.github.io/js-tooling/">js-tooling Docs</a></p>
     </td>
   </tr>
   <tr>
@@ -50,13 +50,13 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
       <a href="https://github.com/rtorcato/browser-common">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=browser-common&theme=github_dark" alt="browser-common" />
       </a>
-      <p align="center">📖 <a href="https://rtorcato.github.io/browser-common/">Docs</a></p>
+      <p align="center">📖 <a href="https://rtorcato.github.io/browser-common/">browser-common Docs</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/rtorcato/js-common">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=js-common&theme=github_dark" alt="js-common" />
       </a>
-      <p align="center">📖 <a href="https://rtorcato.github.io/js-common/">Docs</a></p>
+      <p align="center">📖 <a href="https://rtorcato.github.io/js-common/">js-common Docs</a></p>
     </td>
   </tr>
 </table>
