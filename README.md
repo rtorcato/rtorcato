@@ -94,13 +94,17 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
   <img src="https://streak-stats.demolab.com?user=rtorcato&theme=github_dark&hide_border=true" alt="GitHub streak stats" />
 </p>
 
----
+<!--
 
 ## 🏆 Trophies
+
+Trophy service (github-profile-trophy.vercel.app) is currently disabled by the maintainer (HTTP 402 DEPLOYMENT_DISABLED). Restore this section if it comes back online, or self-host a fork.
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rtorcato&theme=gitdimmed&no-frame=true&margin-w=10&column=7" alt="GitHub trophies" />
 </p>
+
+-->
 
 ---
 
