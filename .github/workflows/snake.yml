@@ -1,12 +1,14 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 */24 * * *"
+  # Snake banner is hidden in README — auto-triggers disabled.
+  # Re-enable by un-commenting the schedule/push lines below, or run manually via Actions tab.
   workflow_dispatch:
-  push:
-    branches:
-      - main
+  # schedule:
+  #   - cron: "0 */24 * * *"
+  # push:
+  #   branches:
+  #     - main
 
 jobs:
   generate:

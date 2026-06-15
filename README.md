@@ -12,7 +12,7 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
 
 💼 **LinkedIn:** [linkedin.com/in/rtorcato](https://www.linkedin.com/in/rtorcato/)
 
----
+<!--
 
 ## 🐍 Activity
 
@@ -21,6 +21,10 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rtorcato/rtorcato/output/github-snake.svg" />
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/rtorcato/rtorcato/output/github-snake.svg" />
 </picture>
+
+---
+
+-->
 
 ---
 
