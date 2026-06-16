@@ -68,6 +68,7 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
 - **[Infra-X](https://infra-x.com)** — In development.
 - **[TripStreamer](https://tripstreamer.com)** — Travel application (Node.js, MongoDB, React) with companion mobile apps.
 - **[DropWallet](https://dropwallet.com)** — In development.
+- **[Homelab-nut]([https://dropwallet.com](https://github.com/rtorcato/homelab-nut))** — In development.
 
 
 ---
