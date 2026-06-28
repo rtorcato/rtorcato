@@ -59,6 +59,41 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
       <p align="center">📖 <a href="https://rtorcato.github.io/js-common/">js-common Docs</a></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rtorcato/api-common">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=api-common&theme=github_dark" alt="api-common" />
+      </a>
+      <p align="center">📖 <a href="https://rtorcato.github.io/api-common/">api-common Docs</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rtorcato/db-common">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=db-common&theme=github_dark" alt="db-common" />
+      </a>
+      <p align="center">📖 <a href="https://rtorcato.github.io/db-common/">db-common Docs</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rtorcato/cf-common">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=cf-common&theme=github_dark" alt="cf-common" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rtorcato/react-common">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=react-common&theme=github_dark" alt="react-common" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rtorcato/homelab-nut">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=homelab-nut&theme=github_dark" alt="homelab-nut" />
+      </a>
+      <p align="center">📖 <a href="https://rtorcato.github.io/homelab-nut/">homelab-nut Docs</a></p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ---
@@ -68,7 +103,6 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
 - **[Infra-X](https://infra-x.com)** — In development.
 - **[TripStreamer](https://tripstreamer.com)** — Travel application (Node.js, MongoDB, React) with companion mobile apps.
 - **[DropWallet](https://dropwallet.com)** — In development.
-- **[Homelab-nut](https://github.com/rtorcato/homelab-nut)** — In development.
 
 
 ---
