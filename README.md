@@ -33,66 +33,57 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/swift-common">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=swift-common&theme=github_dark" alt="swift-common" />
-      </a>
-      <p align="center">📖 <a href="https://rtorcato.github.io/swift-common/">swift-common Docs</a></p>
+      <h3>📦 <a href="https://github.com/rtorcato/swift-common">swift-common</a></h3>
+      <p>SwiftUI package that helps build SwiftUI applications quicker.</p>
+      <p>📖 <a href="https://rtorcato.github.io/swift-common/">Docs</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/js-tooling">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=js-tooling&theme=github_dark" alt="js-tooling" />
-      </a>
-      <p align="center">📖 <a href="https://rtorcato.github.io/js-tooling/">js-tooling Docs</a></p>
+      <h3>📦 <a href="https://github.com/rtorcato/js-tooling">js-tooling</a></h3>
+      <p>Stop configuring tools. One wizard to scaffold TypeScript, linting, testing, and releases for any JS project.</p>
+      <p>📖 <a href="https://rtorcato.github.io/js-tooling/">Docs</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/browser-common">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=browser-common&theme=github_dark" alt="browser-common" />
-      </a>
-      <p align="center">📖 <a href="https://rtorcato.github.io/browser-common/">browser-common Docs</a></p>
+      <h3>📦 <a href="https://github.com/rtorcato/browser-common">browser-common</a></h3>
+      <p>TypeScript wrappers around browser Web APIs (clipboard, geolocation, mediadevices, etc.).</p>
+      <p>📖 <a href="https://rtorcato.github.io/browser-common/">Docs</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/js-common">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=js-common&theme=github_dark" alt="js-common" />
-      </a>
-      <p align="center">📖 <a href="https://rtorcato.github.io/js-common/">js-common Docs</a></p>
+      <h3>📦 <a href="https://github.com/rtorcato/js-common">js-common</a></h3>
+      <p>Common functions for JavaScript projects.</p>
+      <p>📖 <a href="https://rtorcato.github.io/js-common/">Docs</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/api-common">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=api-common&theme=github_dark" alt="api-common" />
-      </a>
-      <p align="center">📖 <a href="https://rtorcato.github.io/api-common/">api-common Docs</a></p>
+      <h3>📦 <a href="https://github.com/rtorcato/api-common">api-common</a></h3>
+      <p>A monorepo of reusable Node.js library packages for building API projects.</p>
+      <p>📖 <a href="https://rtorcato.github.io/api-common/">Docs</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/db-common">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=db-common&theme=github_dark" alt="db-common" />
-      </a>
-      <p align="center">📖 <a href="https://rtorcato.github.io/db-common/">db-common Docs</a></p>
+      <h3>📦 <a href="https://github.com/rtorcato/db-common">db-common</a></h3>
+      <p>Shared, tree-shakeable TypeScript database utilities.</p>
+      <p>📖 <a href="https://rtorcato.github.io/db-common/">Docs</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/cf-common">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=cf-common&theme=github_dark" alt="cf-common" />
-      </a>
-      <p align="center">📖 <a href="https://rtorcato.github.io/cf-common/">cf-common Docs</a></p>
+      <h3>📦 <a href="https://github.com/rtorcato/cf-common">cf-common</a></h3>
+      <p>A common library for Cloudflare developers.</p>
+      <p>📖 <a href="https://rtorcato.github.io/cf-common/">Docs</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/react-common">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=react-common&theme=github_dark" alt="react-common" />
-      </a>
-      <p align="center">📖 <a href="https://rtorcato.github.io/react-common/">react-common Docs</a></p>
+      <h3>📦 <a href="https://github.com/rtorcato/react-common">react-common</a></h3>
+      <p>A published React 19 component library.</p>
+      <p>📖 <a href="https://rtorcato.github.io/react-common/">Docs</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/homelab-nut">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=homelab-nut&theme=github_dark" alt="homelab-nut" />
-      </a>
-      <p align="center">📖 <a href="https://rtorcato.github.io/homelab-nut/">homelab-nut Docs</a></p>
+      <h3>📦 <a href="https://github.com/rtorcato/homelab-nut">homelab-nut</a></h3>
+      <p>Homelab UPS / NUT shutdown automation.</p>
+      <p>📖 <a href="https://rtorcato.github.io/homelab-nut/">Docs</a></p>
     </td>
     <td width="50%" valign="top"></td>
   </tr>
@@ -111,16 +102,14 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
 
 ## 📊 Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rtorcato&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtorcato&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/rtorcato?tab=followers">
+    <img src="https://img.shields.io/github/followers/rtorcato?style=for-the-badge&logo=github&label=Followers&color=24292e" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/rtorcato?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20repos&color=24292e&query=public_repos&url=https://api.github.com/users/rtorcato" alt="Public repositories" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rtorcato&theme=github_dark&hide_border=true" alt="GitHub streak stats" />
