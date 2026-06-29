@@ -78,11 +78,13 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
       <a href="https://github.com/rtorcato/cf-common">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=cf-common&theme=github_dark" alt="cf-common" />
       </a>
+      <p align="center">📖 <a href="https://rtorcato.github.io/cf-common/">cf-common Docs</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/rtorcato/react-common">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtorcato&repo=react-common&theme=github_dark" alt="react-common" />
       </a>
+      <p align="center">📖 <a href="https://rtorcato.github.io/react-common/">react-common Docs</a></p>
     </td>
   </tr>
   <tr>
