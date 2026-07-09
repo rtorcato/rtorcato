@@ -35,111 +35,66 @@ More from `@rtorcato` — same conventions, same release pipeline.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <table>
-        <tr><td height="80" valign="top">
-          <a href="https://github.com/rtorcato/swift-common"><img src="https://img.shields.io/badge/swift--common-ff6f4d?style=for-the-badge&labelColor=1a1a1a" alt="swift-common" /></a>
-          <p>SwiftUI package that helps build SwiftUI applications quicker.</p>
-        </td></tr>
-        <tr><td valign="bottom">
-          <a href="https://github.com/rtorcato/swift-common/">Repo ↗</a> | <a href="https://rtorcato.github.io/swift-common/">Docs ↗</a>
-        </td></tr>
-      </table>
+      <a href="https://github.com/rtorcato/swift-common"><img src="https://img.shields.io/badge/swift--common-ff6f4d?style=for-the-badge&labelColor=1a1a1a" alt="swift-common" /></a>
+      <p>SwiftUI package that helps build SwiftUI applications quicker.</p>
+      <a href="https://github.com/rtorcato/swift-common/">Repo ↗</a> |
+      <a href="https://rtorcato.github.io/swift-common/">Docs ↗</a>
     </td>
     <td width="50%" valign="top">
-      <table>
-        <tr><td height="80" valign="top">
-          <a href="https://github.com/rtorcato/js-tooling"><img src="https://img.shields.io/badge/js--tooling-34d399?style=for-the-badge&labelColor=1a1a1a" alt="js-tooling" /></a>
-          <p>Stop configuring tools. One wizard to scaffold TypeScript, linting, testing, and releases for any JS project.</p>
-        </td></tr>
-        <tr><td valign="bottom">
-          <a href="https://github.com/rtorcato/js-tooling/">Repo ↗</a> | <a href="https://rtorcato.github.io/js-tooling/">Docs ↗</a>
-        </td></tr>
-      </table>
+      <a href="https://github.com/rtorcato/js-tooling"><img src="https://img.shields.io/badge/js--tooling-34d399?style=for-the-badge&labelColor=1a1a1a" alt="js-tooling" /></a>
+      <p>Stop configuring tools. One wizard to scaffold TypeScript, linting, testing, and releases for any JS project.</p>
+      <a href="https://github.com/rtorcato/js-tooling/">Repo ↗</a> |
+      <a href="https://rtorcato.github.io/js-tooling/">Docs ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <table>
-        <tr><td height="80" valign="top">
-          <a href="https://github.com/rtorcato/browser-common"><img src="https://img.shields.io/badge/browser--common-58a6ff?style=for-the-badge&labelColor=1a1a1a" alt="browser-common" /></a>
-          <p>TypeScript wrappers around browser Web APIs (clipboard, geolocation, mediadevices, etc.).</p>
-        </td></tr>
-        <tr><td valign="bottom">
-          <a href="https://github.com/rtorcato/browser-common/">Repo ↗</a> | <a href="https://rtorcato.github.io/browser-common/">Docs ↗</a>
-        </td></tr>
-      </table>
+      <a href="https://github.com/rtorcato/browser-common"><img src="https://img.shields.io/badge/browser--common-58a6ff?style=for-the-badge&labelColor=1a1a1a" alt="browser-common" /></a>
+      <p>TypeScript wrappers around browser Web APIs (clipboard, geolocation, mediadevices, etc.).</p>
+      <a href="https://github.com/rtorcato/browser-common/">Repo ↗</a> |
+      <a href="https://rtorcato.github.io/browser-common/">Docs ↗</a>
     </td>
     <td width="50%" valign="top">
-      <table>
-        <tr><td height="80" valign="top">
-          <a href="https://github.com/rtorcato/js-common"><img src="https://img.shields.io/badge/js--common-f2cc60?style=for-the-badge&labelColor=1a1a1a" alt="js-common" /></a>
-          <p>Common functions for JavaScript projects.</p>
-        </td></tr>
-        <tr><td valign="bottom">
-          <a href="https://github.com/rtorcato/js-common/">Repo ↗</a> | <a href="https://rtorcato.github.io/js-common/">Docs ↗</a>
-        </td></tr>
-      </table>
+      <a href="https://github.com/rtorcato/js-common"><img src="https://img.shields.io/badge/js--common-f2cc60?style=for-the-badge&labelColor=1a1a1a" alt="js-common" /></a>
+      <p>Common functions for JavaScript projects.</p>
+      <a href="https://github.com/rtorcato/js-common/">Repo ↗</a> |
+      <a href="https://rtorcato.github.io/js-common/">Docs ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <table>
-        <tr><td height="80" valign="top">
-          <a href="https://github.com/rtorcato/api-common"><img src="https://img.shields.io/badge/api--common-e879f9?style=for-the-badge&labelColor=1a1a1a" alt="api-common" /></a>
-          <p>A monorepo of reusable Node.js library packages for building API projects.</p>
-        </td></tr>
-        <tr><td valign="bottom">
-          <a href="https://github.com/rtorcato/api-common/">Repo ↗</a> | <a href="https://rtorcato.github.io/api-common/">Docs ↗</a>
-        </td></tr>
-      </table>
+      <a href="https://github.com/rtorcato/api-common"><img src="https://img.shields.io/badge/api--common-e879f9?style=for-the-badge&labelColor=1a1a1a" alt="api-common" /></a>
+      <p>A monorepo of reusable Node.js library packages for building API projects.</p>
+      <a href="https://github.com/rtorcato/api-common/">Repo ↗</a> |
+      <a href="https://rtorcato.github.io/api-common/">Docs ↗</a>
     </td>
     <td width="50%" valign="top">
-      <table>
-        <tr><td height="80" valign="top">
-          <a href="https://github.com/rtorcato/db-common"><img src="https://img.shields.io/badge/db--common-a78bfa?style=for-the-badge&labelColor=1a1a1a" alt="db-common" /></a>
-          <p>Shared, tree-shakeable TypeScript database utilities.</p>
-        </td></tr>
-        <tr><td valign="bottom">
-          <a href="https://github.com/rtorcato/db-common/">Repo ↗</a> | <a href="https://rtorcato.github.io/db-common/">Docs ↗</a>
-        </td></tr>
-      </table>
+      <a href="https://github.com/rtorcato/db-common"><img src="https://img.shields.io/badge/db--common-a78bfa?style=for-the-badge&labelColor=1a1a1a" alt="db-common" /></a>
+      <p>Shared, tree-shakeable TypeScript database utilities.</p>
+      <a href="https://github.com/rtorcato/db-common/">Repo ↗</a> |
+      <a href="https://rtorcato.github.io/db-common/">Docs ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <table>
-        <tr><td height="80" valign="top">
-          <a href="https://github.com/rtorcato/cf-common"><img src="https://img.shields.io/badge/cf--common-fbad41?style=for-the-badge&labelColor=1a1a1a" alt="cf-common" /></a>
-          <p>A common library for Cloudflare developers.</p>
-        </td></tr>
-        <tr><td valign="bottom">
-          <a href="https://github.com/rtorcato/cf-common/">Repo ↗</a> | <a href="https://rtorcato.github.io/cf-common/">Docs ↗</a>
-        </td></tr>
-      </table>
+      <a href="https://github.com/rtorcato/cf-common"><img src="https://img.shields.io/badge/cf--common-fbad41?style=for-the-badge&labelColor=1a1a1a" alt="cf-common" /></a>
+      <p>A common library for Cloudflare developers.</p>
+      <a href="https://github.com/rtorcato/cf-common/">Repo ↗</a> |
+      <a href="https://rtorcato.github.io/cf-common/">Docs ↗</a>
     </td>
     <td width="50%" valign="top">
-      <table>
-        <tr><td height="80" valign="top">
-          <a href="https://github.com/rtorcato/react-common"><img src="https://img.shields.io/badge/react--common-818cf8?style=for-the-badge&labelColor=1a1a1a" alt="react-common" /></a>
-          <p>A published React 19 component library.</p>
-        </td></tr>
-        <tr><td valign="bottom">
-          <a href="https://github.com/rtorcato/react-common/">Repo ↗</a> | <a href="https://rtorcato.github.io/react-common/">Docs ↗</a>
-        </td></tr>
-      </table>
+      <a href="https://github.com/rtorcato/react-common"><img src="https://img.shields.io/badge/react--common-818cf8?style=for-the-badge&labelColor=1a1a1a" alt="react-common" /></a>
+      <p>A published React 19 component library.</p>
+      <a href="https://github.com/rtorcato/react-common/">Repo ↗</a> |
+      <a href="https://rtorcato.github.io/react-common/">Docs ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <table>
-        <tr><td height="80" valign="top">
-          <a href="https://github.com/rtorcato/homelab-nut"><img src="https://img.shields.io/badge/homelab--nut-94a3b8?style=for-the-badge&labelColor=1a1a1a" alt="homelab-nut" /></a>
-          <p>Homelab UPS / NUT shutdown automation.</p>
-        </td></tr>
-        <tr><td valign="bottom">
-          <a href="https://github.com/rtorcato/homelab-nut/">Repo ↗</a> | <a href="https://rtorcato.github.io/homelab-nut/">Docs ↗</a>
-        </td></tr>
-      </table>
+      <a href="https://github.com/rtorcato/homelab-nut"><img src="https://img.shields.io/badge/homelab--nut-94a3b8?style=for-the-badge&labelColor=1a1a1a" alt="homelab-nut" /></a>
+      <p>Homelab UPS / NUT shutdown automation.</p>
+      <a href="https://github.com/rtorcato/homelab-nut/">Repo ↗</a> |
+      <a href="https://rtorcato.github.io/homelab-nut/">Docs ↗</a>
     </td>
     <td width="50%" valign="top"></td>
   </tr>
