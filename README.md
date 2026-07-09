@@ -32,6 +32,8 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
 
 More from `@rtorcato` — same conventions, same release pipeline.
 
+<!-- Badge accent colors + taglines are sourced from ../shared-docs/src/family.ts (the @rtorcato/* family source of truth). Pull values from there rather than guessing. -->
+
 <table>
   <tr>
     <td width="50%" valign="top">
