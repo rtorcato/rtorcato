@@ -4,7 +4,7 @@
 
 I'm a full-stack developer who has built internet and interactive applications for major Canadian corporations and marketing firms (IBM, Manulife, Flight Centre, and many more) since the late 90s. I run projects independently from concept through production deployment — backend, frontend, infrastructure, and design.
 
-Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) and Apple platforms (Swift / SwiftUI). 
+Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) and Apple platforms (Swift / SwiftUI).
 
 📄 **Resume:** [resume.matrixdigital.com](https://resume.matrixdigital.com)
 
@@ -168,9 +168,9 @@ Trophy service (github-profile-trophy.vercel.app) is currently disabled by the m
 **Apple:** Swift · SwiftUI · UIKit · AppKit · SwiftPM
 
 ---
-<p>                                                                                               
+<p>
 <img src="https://komarev.com/ghpvc/?username=rtorcato&style=flat&color=blueviolet" alt="Profile"/>
-</p>   
+</p>
 <!-- ## 📫 Connect
 
 - GitHub: [@rtorcato](https://github.com/rtorcato)
