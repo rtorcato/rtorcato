@@ -41,7 +41,7 @@ More from `@rtorcato` — same conventions, same release pipeline.
       <a href="https://rtorcato.github.io/swift-common/">Docs ↗</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/js-tooling"><img src="https://img.shields.io/badge/js--tooling-34d399?style=for-the-badge&labelColor=1a1a1a" alt="js-tooling" /></a>
+      <a href="https://github.com/rtorcato/js-tooling"><img src="https://img.shields.io/badge/js--tooling-22d3ee?style=for-the-badge&labelColor=1a1a1a" alt="js-tooling" /></a>
       <p>Stop configuring tools. One wizard to scaffold TypeScript, linting, testing, and releases for any JS project.</p>
       <a href="https://github.com/rtorcato/js-tooling/">Repo ↗</a> |
       <a href="https://rtorcato.github.io/js-tooling/">Docs ↗</a>
@@ -98,7 +98,7 @@ More from `@rtorcato` — same conventions, same release pipeline.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/rtorcato/supabase-common"><img src="https://img.shields.io/badge/supabase--common-3ecf8e?style=for-the-badge&labelColor=1a1a1a" alt="supabase-common" /></a>
-      <p>Shared TypeScript utilities for Supabase projects.</p>
+      <p>Shared, tree-shakeable TypeScript helpers for Supabase — client, auth, and database utilities.</p>
       <a href="https://github.com/rtorcato/supabase-common/">Repo ↗</a> |
       <a href="https://rtorcato.github.io/supabase-common/">Docs ↗</a>
     </td>
