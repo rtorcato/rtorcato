@@ -96,7 +96,12 @@ More from `@rtorcato` — same conventions, same release pipeline.
       <a href="https://github.com/rtorcato/homelab-nut/">Repo ↗</a> |
       <a href="https://rtorcato.github.io/homelab-nut/">Docs ↗</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rtorcato/supabase-common"><img src="https://img.shields.io/badge/supabase--common-3ecf8e?style=for-the-badge&labelColor=1a1a1a" alt="supabase-common" /></a>
+      <p>Shared TypeScript utilities for Supabase projects.</p>
+      <a href="https://github.com/rtorcato/supabase-common/">Repo ↗</a> |
+      <a href="https://rtorcato.github.io/supabase-common/">Docs ↗</a>
+    </td>
   </tr>
 </table>
 
@@ -124,7 +129,7 @@ More from `@rtorcato` — same conventions, same release pipeline.
 
 <p align="center">
   <!-- <img src="https://img.shields.io/github/commit-activity/y/rtorcato/rtorcato?style=for-the-badge&logo=github&label=Commits%2Fyear&color=24292e" alt="Commits per year" /> -->
-  <img src="https://img.shields.io/badge/Open%20source-8%20packages-24292e?style=for-the-badge&logo=github" alt="Open source packages" />
+  <img src="https://img.shields.io/badge/Open%20source-9%20packages-24292e?style=for-the-badge&logo=github" alt="Open source packages" />
 </p>
 
 <!--
