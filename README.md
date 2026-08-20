@@ -12,8 +12,6 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
 
 💼 **LinkedIn:** [linkedin.com/in/rtorcato](https://www.linkedin.com/in/rtorcato/)
 
-<!--
-
 ## 🐍 Activity
 
 <picture>
@@ -21,10 +19,6 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rtorcato/rtorcato/output/github-snake.svg" />
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/rtorcato/rtorcato/output/github-snake.svg" />
 </picture>
-
----
-
--->
 
 ---
 
@@ -43,21 +37,24 @@ More from `@rtorcato` — same conventions, same release pipeline.
       <a href="https://rtorcato.github.io/swift-common/">Docs ↗</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/js-tooling"><img src="https://img.shields.io/badge/js--tooling-22d3ee?style=for-the-badge&labelColor=1a1a1a" alt="js-tooling" /></a>
-      <p>Stop configuring tools. One wizard to scaffold TypeScript, linting, testing, and releases for any JS project.</p>
-      <a href="https://github.com/rtorcato/js-tooling/">Repo ↗</a> |
-      <a href="https://rtorcato.github.io/js-tooling/">Docs ↗</a>
+      <a href="https://github.com/rtorcato/repo-tooling"><img src="https://img.shields.io/badge/repo--tooling-22d3ee?style=for-the-badge&labelColor=1a1a1a" alt="repo-tooling" /></a>
+      <a href="https://www.npmjs.com/package/@rtorcato/repo-tooling"><img src="https://img.shields.io/npm/dm/%40rtorcato%2Frepo-tooling?style=for-the-badge&label=npm&labelColor=1a1a1a&color=24292e" alt="repo-tooling downloads" /></a>
+      <p>Stop configuring tools. One CLI to scaffold, audit, and fix a repo's toolchain — linting, testing, releases, and CI.</p>
+      <a href="https://github.com/rtorcato/repo-tooling/">Repo ↗</a> |
+      <a href="https://rtorcato.github.io/repo-tooling/">Docs ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/rtorcato/browser-common"><img src="https://img.shields.io/badge/browser--common-58a6ff?style=for-the-badge&labelColor=1a1a1a" alt="browser-common" /></a>
+      <a href="https://www.npmjs.com/package/@rtorcato/browser-common"><img src="https://img.shields.io/npm/dm/%40rtorcato%2Fbrowser-common?style=for-the-badge&label=npm&labelColor=1a1a1a&color=24292e" alt="browser-common downloads" /></a>
       <p>TypeScript wrappers around browser Web APIs (clipboard, geolocation, mediadevices, etc.).</p>
       <a href="https://github.com/rtorcato/browser-common/">Repo ↗</a> |
       <a href="https://rtorcato.github.io/browser-common/">Docs ↗</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/rtorcato/js-common"><img src="https://img.shields.io/badge/js--common-f2cc60?style=for-the-badge&labelColor=1a1a1a" alt="js-common" /></a>
+      <a href="https://www.npmjs.com/package/@rtorcato/js-common"><img src="https://img.shields.io/npm/dm/%40rtorcato%2Fjs-common?style=for-the-badge&label=npm&labelColor=1a1a1a&color=24292e" alt="js-common downloads" /></a>
       <p>Common functions for JavaScript projects.</p>
       <a href="https://github.com/rtorcato/js-common/">Repo ↗</a> |
       <a href="https://rtorcato.github.io/js-common/">Docs ↗</a>
@@ -100,9 +97,23 @@ More from `@rtorcato` — same conventions, same release pipeline.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/rtorcato/supabase-common"><img src="https://img.shields.io/badge/supabase--common-3ecf8e?style=for-the-badge&labelColor=1a1a1a" alt="supabase-common" /></a>
+      <a href="https://www.npmjs.com/package/@rtorcato/supabase-common"><img src="https://img.shields.io/npm/dm/%40rtorcato%2Fsupabase-common?style=for-the-badge&label=npm&labelColor=1a1a1a&color=24292e" alt="supabase-common downloads" /></a>
       <p>Shared, tree-shakeable TypeScript helpers for Supabase — client, auth, and database utilities.</p>
       <a href="https://github.com/rtorcato/supabase-common/">Repo ↗</a> |
       <a href="https://rtorcato.github.io/supabase-common/">Docs ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rtorcato/db-x"><img src="https://img.shields.io/badge/db--x-10b981?style=for-the-badge&labelColor=1a1a1a" alt="db-x" /></a>
+      <p>Production-grade database schema deployment with the ergonomics of a JSX component.</p>
+      <a href="https://github.com/rtorcato/db-x/">Repo ↗</a> |
+      <a href="https://rtorcato.github.io/db-x/">Docs ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rtorcato/infra-x"><img src="https://img.shields.io/badge/infra--x-2dd4bf?style=for-the-badge&labelColor=1a1a1a" alt="infra-x" /></a>
+      <p>JSX as the deployment language — runtime and reference component libraries.</p>
+      <a href="https://github.com/rtorcato/infra-x/">Repo ↗</a>
     </td>
   </tr>
 </table>
@@ -111,7 +122,6 @@ More from `@rtorcato` — same conventions, same release pipeline.
 
 ## 🚀 Coming soon
 
-- **[Infra-X](https://infra-x.com)** — In development.
 - **[TripStreamer](https://tripstreamer.com)** — Travel application (Node.js, MongoDB, React) with companion mobile apps.
 - **[DropWallet](https://dropwallet.com)** — In development.
 
@@ -131,7 +141,7 @@ More from `@rtorcato` — same conventions, same release pipeline.
 
 <p align="center">
   <!-- <img src="https://img.shields.io/github/commit-activity/y/rtorcato/rtorcato?style=for-the-badge&logo=github&label=Commits%2Fyear&color=24292e" alt="Commits per year" /> -->
-  <img src="https://img.shields.io/badge/Open%20source-9%20packages-24292e?style=for-the-badge&logo=github" alt="Open source packages" />
+  <img src="https://img.shields.io/badge/Open%20source-11%20packages-24292e?style=for-the-badge&logo=github" alt="Open source packages" />
 </p>
 
 <!--
