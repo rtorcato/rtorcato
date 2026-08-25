@@ -113,7 +113,7 @@ More from `@rtorcato` — same conventions, same release pipeline.
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/infra-zero"><img src="https://img.shields.io/badge/infra--zero-2dd4bf?style=for-the-badge&labelColor=1a1a1a" alt="infra-zero" /></a>
-      <p>JSX as the deployment language — infrastructure and database schemas as components. Render to a plan, diff it, deploy it. (Home of <code>infrazero</code> and <code>infrazero-db</code>, formerly infra-x / db-x.)</p>
+      <p>JSX as the deployment language — infrastructure and database schemas as components. Render to a plan, diff it, deploy it.</p>
       <a href="https://github.com/infra-zero">Org ↗</a> |
       <a href="https://www.infrazero.dev">Site ↗</a>
     </td>
