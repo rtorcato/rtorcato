@@ -103,17 +103,25 @@ More from `@rtorcato` — same conventions, same release pipeline.
       <a href="https://rtorcato.github.io/supabase-common/">Docs ↗</a>
     </td>
   </tr>
+</table>
+
+---
+
+## 🏢 Organizations
+
+<table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/db-x"><img src="https://img.shields.io/badge/db--x-10b981?style=for-the-badge&labelColor=1a1a1a" alt="db-x" /></a>
-      <p>Production-grade database schema deployment with the ergonomics of a JSX component.</p>
-      <a href="https://github.com/rtorcato/db-x/">Repo ↗</a> |
-      <a href="https://rtorcato.github.io/db-x/">Docs ↗</a>
+      <a href="https://github.com/infra-zero"><img src="https://img.shields.io/badge/infra--zero-2dd4bf?style=for-the-badge&labelColor=1a1a1a" alt="infra-zero" /></a>
+      <p>JSX as the deployment language — infrastructure and database schemas as components. Render to a plan, diff it, deploy it. (Home of <code>infrazero</code> and <code>infrazero-db</code>, formerly infra-x / db-x.)</p>
+      <a href="https://github.com/infra-zero">Org ↗</a> |
+      <a href="https://www.infrazero.dev">Site ↗</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/infra-x"><img src="https://img.shields.io/badge/infra--x-2dd4bf?style=for-the-badge&labelColor=1a1a1a" alt="infra-x" /></a>
-      <p>JSX as the deployment language — runtime and reference component libraries.</p>
-      <a href="https://github.com/rtorcato/infra-x/">Repo ↗</a>
+      <a href="https://github.com/dropwallet-org"><img src="https://img.shields.io/badge/dropwallet-6366f1?style=for-the-badge&labelColor=1a1a1a" alt="dropwallet-org" /></a>
+      <p>DropWallet — in development.</p>
+      <a href="https://github.com/dropwallet-org">Org ↗</a> |
+      <a href="https://dropwallet.com">Site ↗</a>
     </td>
   </tr>
 </table>
@@ -141,7 +149,7 @@ More from `@rtorcato` — same conventions, same release pipeline.
 
 <p align="center">
   <!-- <img src="https://img.shields.io/github/commit-activity/y/rtorcato/rtorcato?style=for-the-badge&logo=github&label=Commits%2Fyear&color=24292e" alt="Commits per year" /> -->
-  <img src="https://img.shields.io/badge/Open%20source-11%20packages-24292e?style=for-the-badge&logo=github" alt="Open source packages" />
+  <img src="https://img.shields.io/badge/Open%20source-9%20packages-24292e?style=for-the-badge&logo=github" alt="Open source packages" />
 </p>
 
 <!--
