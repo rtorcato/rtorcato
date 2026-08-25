@@ -128,14 +128,6 @@ More from `@rtorcato` — same conventions, same release pipeline.
 
 ---
 
-## 🚀 Coming soon
-
-- **[TripStreamer](https://tripstreamer.com)** — Travel application (Node.js, MongoDB, React) with companion mobile apps.
-- **[DropWallet](https://dropwallet.com)** — In development.
-
-
----
-
 ## 📊 Stats
 
 <p align="center">
