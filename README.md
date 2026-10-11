@@ -187,9 +187,7 @@ Trophy service (github-profile-trophy.vercel.app) is currently disabled by the m
 **Apple:** Swift · SwiftUI · UIKit · AppKit · SwiftPM
 
 ---
-<p>
-<img src="https://komarev.com/ghpvc/?username=rtorcato&style=flat&color=blueviolet" alt="Profile"/>
-</p>
+
 <!-- ## 📫 Connect
 
 - GitHub: [@rtorcato](https://github.com/rtorcato)
