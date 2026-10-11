@@ -103,15 +103,6 @@ More from `@rtorcato` — same conventions, same release pipeline.
       <a href="https://rtorcato.github.io/supabase-common/">Docs ↗</a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/repo-ai"><img src="https://img.shields.io/badge/repo--ai-f472b6?style=for-the-badge&labelColor=1a1a1a" alt="repo-ai" /></a>
-      <p>Turns ai-ready GitHub issues into reviewed PRs — one worktree per issue, two agent reviewers.</p>
-      <a href="https://github.com/rtorcato/repo-ai/">Repo ↗</a> |
-      <a href="https://rtorcato.github.io/repo-ai/">Docs ↗</a>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
 </table>
 
 ---
