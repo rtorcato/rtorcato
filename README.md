@@ -116,27 +116,6 @@ More from `@rtorcato` — same conventions, same release pipeline.
 
 ---
 
-## 🏢 Organizations
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/infra-zero"><img src="https://avatars.githubusercontent.com/u/320633688?s=160&v=4" width="80" alt="infra-zero" /></a>
-      <p><strong>InfraZero</strong> - in development.</p>
-      <a href="https://github.com/infra-zero">Org ↗</a> |
-      <a href="https://www.infrazero.dev">Site ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/dropwallet-org"><img src="https://img.shields.io/badge/dropwallet-6366f1?style=for-the-badge&labelColor=1a1a1a" alt="dropwallet-org" /></a>
-      <p>DropWallet — in development.</p>
-      <a href="https://github.com/dropwallet-org">Org ↗</a> |
-      <a href="https://dropwallet.com">Site ↗</a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 Stats
 
 <p align="center">
