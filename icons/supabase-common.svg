@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="supabase-common">
+  <!-- lucide zap, ISC -->
+  <rect x=".5" y=".5" width="31" height="31" rx="8" fill="#199862" fill-opacity=".10" stroke="#199862" stroke-opacity=".40"/>
+  <svg x="6.72" y="6.72" width="18.56" height="18.56" viewBox="0 0 24 24" fill="none" stroke="#199862" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"/></svg>
+</svg>

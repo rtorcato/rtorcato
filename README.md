@@ -6,6 +6,8 @@ I'm a full-stack developer who has built internet and interactive applications f
 
 Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) and Apple platforms (Swift / SwiftUI).
 
+🌐 **Home:** [torcato.dev](https://torcato.dev) — everything I build, in one place
+
 📄 **Resume:** [resume.matrixdigital.com](https://resume.matrixdigital.com)
 
 🏢 **Agency:** [Matrix Digital Solutions](https://matrixdigital.com) (founded 1997)
@@ -24,83 +26,136 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
 
 ## 🌟 Featured projects
 
-More from `@rtorcato` — same conventions, same release pipeline.
+Open-source TypeScript and Swift packages. They share the same conventions and release pipeline. More at [torcato.dev](https://torcato.dev).
 
-<!-- Badge accent colors + taglines are sourced from ../shared-docs/src/family.ts (the @rtorcato/* family source of truth). Pull values from there rather than guessing. -->
+<!-- Taglines come from shared-docs src/family.ts. Icons in icons/ are copies of each repo's apps/docs/static/img/logo-dark.svg (dark) and logo.svg (light); update them here when the marks change. -->
+
+### Libraries
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/swift-common"><img src="https://img.shields.io/badge/swift--common-ff6f4d?style=for-the-badge&labelColor=1a1a1a" alt="swift-common" /></a>
-      <p>SwiftUI package that helps build SwiftUI applications quicker.</p>
-      <a href="https://github.com/rtorcato/swift-common/">Repo ↗</a> |
-      <a href="https://rtorcato.github.io/swift-common/">Docs ↗</a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icons/js-common-dark.svg" />
+        <img src="icons/js-common.svg" width="40" height="40" align="left" alt="" />
+      </picture>
+      <a href="https://github.com/rtorcato/js-common"><strong>js-common</strong></a><br />
+      Tree-shakeable TypeScript utilities — tiny bundles, full type safety, CLI included.
+      <p><a href="https://docs.torcato.dev/js-common/">Docs ↗</a> · <a href="https://www.npmjs.com/package/@rtorcato/js-common">npm ↗</a> · <a href="https://github.com/rtorcato/js-common">GitHub ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/repo-tooling"><img src="https://img.shields.io/badge/repo--tooling-22d3ee?style=for-the-badge&labelColor=1a1a1a" alt="repo-tooling" /></a>
-      <a href="https://www.npmjs.com/package/@rtorcato/repo-tooling"><img src="https://img.shields.io/npm/dm/%40rtorcato%2Frepo-tooling?style=for-the-badge&label=npm&labelColor=1a1a1a&color=24292e" alt="repo-tooling downloads" /></a>
-      <p>Stop configuring tools. One CLI to scaffold, audit, and fix a repo's toolchain — linting, testing, releases, and CI.</p>
-      <a href="https://github.com/rtorcato/repo-tooling/">Repo ↗</a> |
-      <a href="https://rtorcato.github.io/repo-tooling/">Docs ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/browser-common"><img src="https://img.shields.io/badge/browser--common-58a6ff?style=for-the-badge&labelColor=1a1a1a" alt="browser-common" /></a>
-      <a href="https://www.npmjs.com/package/@rtorcato/browser-common"><img src="https://img.shields.io/npm/dm/%40rtorcato%2Fbrowser-common?style=for-the-badge&label=npm&labelColor=1a1a1a&color=24292e" alt="browser-common downloads" /></a>
-      <p>TypeScript wrappers around browser Web APIs (clipboard, geolocation, mediadevices, etc.).</p>
-      <a href="https://github.com/rtorcato/browser-common/">Repo ↗</a> |
-      <a href="https://rtorcato.github.io/browser-common/">Docs ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/js-common"><img src="https://img.shields.io/badge/js--common-f2cc60?style=for-the-badge&labelColor=1a1a1a" alt="js-common" /></a>
-      <a href="https://www.npmjs.com/package/@rtorcato/js-common"><img src="https://img.shields.io/npm/dm/%40rtorcato%2Fjs-common?style=for-the-badge&label=npm&labelColor=1a1a1a&color=24292e" alt="js-common downloads" /></a>
-      <p>Common functions for JavaScript projects.</p>
-      <a href="https://github.com/rtorcato/js-common/">Repo ↗</a> |
-      <a href="https://rtorcato.github.io/js-common/">Docs ↗</a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icons/api-common-dark.svg" />
+        <img src="icons/api-common.svg" width="40" height="40" align="left" alt="" />
+      </picture>
+      <a href="https://github.com/rtorcato/api-common"><strong>api-common</strong></a><br />
+      Framework-agnostic building blocks for Node.js APIs — errors, auth, rate limiting, OpenAPI, Express + Hono.
+      <p><a href="https://docs.torcato.dev/api-common/">Docs ↗</a> · <a href="https://github.com/rtorcato/api-common">GitHub ↗</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/api-common"><img src="https://img.shields.io/badge/api--common-e879f9?style=for-the-badge&labelColor=1a1a1a" alt="api-common" /></a>
-      <p>A monorepo of reusable Node.js library packages for building API projects.</p>
-      <a href="https://github.com/rtorcato/api-common/">Repo ↗</a> |
-      <a href="https://rtorcato.github.io/api-common/">Docs ↗</a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icons/browser-common-dark.svg" />
+        <img src="icons/browser-common.svg" width="40" height="40" align="left" alt="" />
+      </picture>
+      <a href="https://github.com/rtorcato/browser-common"><strong>browser-common</strong></a><br />
+      Tree-shakeable TypeScript wrappers around 40+ browser Web APIs — one subpath per spec.
+      <p><a href="https://docs.torcato.dev/browser-common/">Docs ↗</a> · <a href="https://www.npmjs.com/package/@rtorcato/browser-common">npm ↗</a> · <a href="https://github.com/rtorcato/browser-common">GitHub ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/db-common"><img src="https://img.shields.io/badge/db--common-a78bfa?style=for-the-badge&labelColor=1a1a1a" alt="db-common" /></a>
-      <p>Shared, tree-shakeable TypeScript database utilities.</p>
-      <a href="https://github.com/rtorcato/db-common/">Repo ↗</a> |
-      <a href="https://rtorcato.github.io/db-common/">Docs ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/cf-common"><img src="https://img.shields.io/badge/cf--common-fbad41?style=for-the-badge&labelColor=1a1a1a" alt="cf-common" /></a>
-      <p>A common library for Cloudflare developers.</p>
-      <a href="https://github.com/rtorcato/cf-common/">Repo ↗</a> |
-      <a href="https://rtorcato.github.io/cf-common/">Docs ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/react-common"><img src="https://img.shields.io/badge/react--common-818cf8?style=for-the-badge&labelColor=1a1a1a" alt="react-common" /></a>
-      <p>A published React 19 component library.</p>
-      <a href="https://github.com/rtorcato/react-common/">Repo ↗</a> |
-      <a href="https://rtorcato.github.io/react-common/">Docs ↗</a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icons/db-common-dark.svg" />
+        <img src="icons/db-common.svg" width="40" height="40" align="left" alt="" />
+      </picture>
+      <a href="https://github.com/rtorcato/db-common"><strong>db-common</strong></a><br />
+      Shared, tree-shakeable TypeScript database utilities for Node projects.
+      <p><a href="https://docs.torcato.dev/db-common/">Docs ↗</a> · <a href="https://www.npmjs.com/package/@rtorcato/db-common">npm ↗</a> · <a href="https://github.com/rtorcato/db-common">GitHub ↗</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/homelab-nut"><img src="https://img.shields.io/badge/homelab--nut-94a3b8?style=for-the-badge&labelColor=1a1a1a" alt="homelab-nut" /></a>
-      <p>Homelab UPS / NUT shutdown automation.</p>
-      <a href="https://github.com/rtorcato/homelab-nut/">Repo ↗</a> |
-      <a href="https://rtorcato.github.io/homelab-nut/">Docs ↗</a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icons/cf-common-dark.svg" />
+        <img src="icons/cf-common.svg" width="40" height="40" align="left" alt="" />
+      </picture>
+      <a href="https://github.com/rtorcato/cf-common"><strong>cf-common</strong></a><br />
+      Typed TypeScript wrappers and helpers for Cloudflare bindings and APIs.
+      <p><a href="https://docs.torcato.dev/cf-common/">Docs ↗</a> · <a href="https://www.npmjs.com/package/@rtorcato/cf-common">npm ↗</a> · <a href="https://github.com/rtorcato/cf-common">GitHub ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/supabase-common"><img src="https://img.shields.io/badge/supabase--common-3ecf8e?style=for-the-badge&labelColor=1a1a1a" alt="supabase-common" /></a>
-      <a href="https://www.npmjs.com/package/@rtorcato/supabase-common"><img src="https://img.shields.io/npm/dm/%40rtorcato%2Fsupabase-common?style=for-the-badge&label=npm&labelColor=1a1a1a&color=24292e" alt="supabase-common downloads" /></a>
-      <p>Shared, tree-shakeable TypeScript helpers for Supabase — client, auth, and database utilities.</p>
-      <a href="https://github.com/rtorcato/supabase-common/">Repo ↗</a> |
-      <a href="https://rtorcato.github.io/supabase-common/">Docs ↗</a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icons/react-common-dark.svg" />
+        <img src="icons/react-common.svg" width="40" height="40" align="left" alt="" />
+      </picture>
+      <a href="https://github.com/rtorcato/react-common"><strong>react-common</strong></a><br />
+      Published React 19 component library — shared UI primitives.
+      <p><a href="https://docs.torcato.dev/react-common/">Docs ↗</a> · <a href="https://www.npmjs.com/package/@rtorcato/react-common">npm ↗</a> · <a href="https://github.com/rtorcato/react-common">GitHub ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icons/supabase-common-dark.svg" />
+        <img src="icons/supabase-common.svg" width="40" height="40" align="left" alt="" />
+      </picture>
+      <a href="https://github.com/rtorcato/supabase-common"><strong>supabase-common</strong></a><br />
+      Shared, tree-shakeable TypeScript helpers for Supabase — client, auth, and database utilities.
+      <p><a href="https://docs.torcato.dev/supabase-common/">Docs ↗</a> · <a href="https://www.npmjs.com/package/@rtorcato/supabase-common">npm ↗</a> · <a href="https://github.com/rtorcato/supabase-common">GitHub ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icons/swift-common-dark.svg" />
+        <img src="icons/swift-common.svg" width="40" height="40" align="left" alt="" />
+      </picture>
+      <a href="https://github.com/rtorcato/swift-common"><strong>swift-common</strong></a><br />
+      SwiftUI package of reusable views and helpers to build apps faster.
+      <p><a href="https://docs.torcato.dev/swift-common/">Docs ↗</a> · <a href="https://github.com/rtorcato/swift-common">GitHub ↗</a></p>
+    </td>
+  </tr>
+</table>
+
+### Tooling
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icons/repo-tooling-dark.svg" />
+        <img src="icons/repo-tooling.svg" width="40" height="40" align="left" alt="" />
+      </picture>
+      <a href="https://github.com/rtorcato/repo-tooling"><strong>repo-tooling</strong></a><br />
+      One wizard to scaffold TypeScript, linting, testing, and releases for any JS project.
+      <p><a href="https://docs.torcato.dev/repo-tooling/">Docs ↗</a> · <a href="https://www.npmjs.com/package/@rtorcato/repo-tooling">npm ↗</a> · <a href="https://github.com/rtorcato/repo-tooling">GitHub ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icons/repo-ai-dark.svg" />
+        <img src="icons/repo-ai.svg" width="40" height="40" align="left" alt="" />
+      </picture>
+      <a href="https://github.com/rtorcato/repo-ai"><strong>repo-ai</strong></a><br />
+      Turns ai-ready GitHub issues into reviewed PRs — one worktree per issue, two agent reviewers.
+      <p><a href="https://docs.torcato.dev/repo-ai/">Docs ↗</a> · <a href="https://www.npmjs.com/package/@rtorcato/repo-ai">npm ↗</a> · <a href="https://github.com/rtorcato/repo-ai">GitHub ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icons/brand-kit-dark.svg" />
+        <img src="icons/brand-kit.svg" width="40" height="40" align="left" alt="" />
+      </picture>
+      <a href="https://github.com/rtorcato/brand-kit"><strong>brand-kit</strong></a><br />
+      Banner, social card and favicon for any repo.
+      <p><a href="https://docs.torcato.dev/brand-kit/">Docs ↗</a> · <a href="https://www.npmjs.com/package/@rtorcato/brand-kit">npm ↗</a> · <a href="https://github.com/rtorcato/brand-kit">GitHub ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icons/homelab-nut-dark.svg" />
+        <img src="icons/homelab-nut.svg" width="40" height="40" align="left" alt="" />
+      </picture>
+      <a href="https://github.com/rtorcato/homelab-nut"><strong>homelab-nut</strong></a><br />
+      Homelab UPS / NUT shutdown automation.
+      <p><a href="https://rtorcato.github.io/homelab-nut/">Docs ↗</a> · <a href="https://github.com/rtorcato/homelab-nut">GitHub ↗</a></p>
     </td>
   </tr>
 </table>
@@ -118,48 +173,13 @@ More from `@rtorcato` — same conventions, same release pipeline.
   </a>
 </p>
 
-<p align="center">
-  <!-- <img src="https://img.shields.io/github/commit-activity/y/rtorcato/rtorcato?style=for-the-badge&logo=github&label=Commits%2Fyear&color=24292e" alt="Commits per year" /> -->
-  <img src="https://img.shields.io/badge/Open%20source-9%20packages-24292e?style=for-the-badge&logo=github" alt="Open source packages" />
-</p>
-
-<!--
-Streak-stats card disabled: streak-stats.demolab.com is currently failing
-("Failed to retrieve contributions — GitHub API issue"), a fault in that
-third-party service's own API token. Restore this block if it recovers.
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rtorcato&theme=github_dark&hide_border=true" alt="GitHub streak stats" />
-</p>
--->
-
-<!--
-
-## 🏆 Trophies
-
-Trophy service (github-profile-trophy.vercel.app) is currently disabled by the maintainer (HTTP 402 DEPLOYMENT_DISABLED). Restore this section if it comes back online, or self-host a fork.
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rtorcato&theme=gitdimmed&no-frame=true&margin-w=10&column=7" alt="GitHub trophies" />
-</p>
-
--->
-
 ---
 
 ## 🛠️ Tech I work in
 
-**Web (current):** TypeScript · Next.js · React · Node.js · Vite · TailwindCSS
-**Web (deep history):** JavaScript · Redux · Apollo GraphQL · jQuery · Angular · PHP · Laravel · ASP.NET · C#
-**Backend & data:** Node.js · Express microservices · REST · MySQL · MongoDB · MSSQL · FileMaker
-**Infra & tooling:** Docker · AWS · DigitalOcean · Nginx · GitHub Actions · semantic-release · Webpack · Vite
-**Creative:** Photoshop · Illustrator · Sketch · Premiere · After Effects · Final Cut Pro
-**Apple:** Swift · SwiftUI · UIKit · AppKit · SwiftPM
-
----
-
-<!-- ## 📫 Connect
-
-- GitHub: [@rtorcato](https://github.com/rtorcato)
-- Resume: [resume.matrixdigital.com](https://resume.matrixdigital.com)
-- Agency: [matrixdigital.com](https://matrixdigital.com) -->
+- **Web (current):** TypeScript · Next.js · React · Node.js · Vite · TailwindCSS
+- **Web (deep history):** JavaScript · Redux · Apollo GraphQL · jQuery · Angular · PHP · Laravel · ASP.NET · C#
+- **Backend & data:** Node.js · Express microservices · REST · MySQL · MongoDB · MSSQL · FileMaker
+- **Infra & tooling:** Docker · AWS · DigitalOcean · Nginx · GitHub Actions · semantic-release · Webpack · Vite
+- **Creative:** Photoshop · Illustrator · Sketch · Premiere · After Effects · Final Cut Pro
+- **Apple:** Swift · SwiftUI · UIKit · AppKit · SwiftPM

@@ -1,0 +1,13 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="repo-ai">
+  <title>repo-ai</title>
+  <!-- lucide bot, ISC -->
+  <rect x=".5" y=".5" width="31" height="31" rx="8" fill="#f472b6" fill-opacity=".13" stroke="#f472b6" stroke-opacity=".38"/>
+  <svg x="6.72" y="6.72" width="18.56" height="18.56" viewBox="0 0 24 24" fill="none" aria-hidden="true" stroke="#f472b6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 8V4H8"/>
+    <rect width="16" height="12" x="4" y="8" rx="2"/>
+    <path d="M2 14h2"/>
+    <path d="M20 14h2"/>
+    <path d="M15 13v2"/>
+    <path d="M9 13v2"/>
+  </svg>
+</svg>
