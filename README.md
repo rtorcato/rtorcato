@@ -8,7 +8,7 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
 
 🌐 **Home:** [torcato.dev](https://torcato.dev) — everything I build, in one place
 
-📄 **Resume:** [resume.matrixdigital.com](https://resume.matrixdigital.com)
+📄 **Resume:** [resume.torcato.dev](https://resume.torcato.dev)
 
 🏢 **Agency:** [Matrix Digital Solutions](https://matrixdigital.com) (founded 1997)
 
@@ -39,18 +39,18 @@ Open-source TypeScript and Swift packages. They share the same conventions and r
         <source media="(prefers-color-scheme: dark)" srcset="icons/js-common-dark.svg" />
         <img src="icons/js-common.svg" width="40" height="40" align="left" alt="" />
       </picture>
-      <a href="https://github.com/rtorcato/js-common"><strong>js-common</strong></a><br />
-      Tree-shakeable TypeScript utilities — tiny bundles, full type safety, CLI included.
-      <p><a href="https://docs.torcato.dev/js-common/">Docs ↗</a> · <a href="https://www.npmjs.com/package/@rtorcato/js-common">npm ↗</a> · <a href="https://github.com/rtorcato/js-common">GitHub ↗</a></p>
+      <p><a href="https://github.com/rtorcato/js-common"><strong>js-common</strong></a><br />
+      Tree-shakeable TypeScript utilities — tiny bundles, full type safety, CLI included.</p>
+      <p><a href="https://docs.torcato.dev/js-common/" title="Docs"><img src="icons/links/docs.svg" width="20" height="20" alt="js-common docs" /></a>&emsp;<a href="https://www.npmjs.com/package/@rtorcato/js-common" title="npm"><img src="icons/links/npm.svg" width="20" height="20" alt="js-common on npm" /></a>&emsp;<a href="https://github.com/rtorcato/js-common" title="GitHub"><img src="icons/links/github.svg" width="20" height="20" alt="js-common on GitHub" /></a></p>
     </td>
     <td width="50%" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="icons/api-common-dark.svg" />
         <img src="icons/api-common.svg" width="40" height="40" align="left" alt="" />
       </picture>
-      <a href="https://github.com/rtorcato/api-common"><strong>api-common</strong></a><br />
-      Framework-agnostic building blocks for Node.js APIs — errors, auth, rate limiting, OpenAPI, Express + Hono.
-      <p><a href="https://docs.torcato.dev/api-common/">Docs ↗</a> · <a href="https://github.com/rtorcato/api-common">GitHub ↗</a></p>
+      <p><a href="https://github.com/rtorcato/api-common"><strong>api-common</strong></a><br />
+      Framework-agnostic building blocks for Node.js APIs — errors, auth, rate limiting, OpenAPI, Express + Hono.</p>
+      <p><a href="https://docs.torcato.dev/api-common/" title="Docs"><img src="icons/links/docs.svg" width="20" height="20" alt="api-common docs" /></a>&emsp;<a href="https://github.com/rtorcato/api-common" title="GitHub"><img src="icons/links/github.svg" width="20" height="20" alt="api-common on GitHub" /></a></p>
     </td>
   </tr>
   <tr>
@@ -59,18 +59,18 @@ Open-source TypeScript and Swift packages. They share the same conventions and r
         <source media="(prefers-color-scheme: dark)" srcset="icons/browser-common-dark.svg" />
         <img src="icons/browser-common.svg" width="40" height="40" align="left" alt="" />
       </picture>
-      <a href="https://github.com/rtorcato/browser-common"><strong>browser-common</strong></a><br />
-      Tree-shakeable TypeScript wrappers around 40+ browser Web APIs — one subpath per spec.
-      <p><a href="https://docs.torcato.dev/browser-common/">Docs ↗</a> · <a href="https://www.npmjs.com/package/@rtorcato/browser-common">npm ↗</a> · <a href="https://github.com/rtorcato/browser-common">GitHub ↗</a></p>
+      <p><a href="https://github.com/rtorcato/browser-common"><strong>browser-common</strong></a><br />
+      Tree-shakeable TypeScript wrappers around 40+ browser Web APIs — one subpath per spec.</p>
+      <p><a href="https://docs.torcato.dev/browser-common/" title="Docs"><img src="icons/links/docs.svg" width="20" height="20" alt="browser-common docs" /></a>&emsp;<a href="https://www.npmjs.com/package/@rtorcato/browser-common" title="npm"><img src="icons/links/npm.svg" width="20" height="20" alt="browser-common on npm" /></a>&emsp;<a href="https://github.com/rtorcato/browser-common" title="GitHub"><img src="icons/links/github.svg" width="20" height="20" alt="browser-common on GitHub" /></a></p>
     </td>
     <td width="50%" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="icons/db-common-dark.svg" />
         <img src="icons/db-common.svg" width="40" height="40" align="left" alt="" />
       </picture>
-      <a href="https://github.com/rtorcato/db-common"><strong>db-common</strong></a><br />
-      Shared, tree-shakeable TypeScript database utilities for Node projects.
-      <p><a href="https://docs.torcato.dev/db-common/">Docs ↗</a> · <a href="https://www.npmjs.com/package/@rtorcato/db-common">npm ↗</a> · <a href="https://github.com/rtorcato/db-common">GitHub ↗</a></p>
+      <p><a href="https://github.com/rtorcato/db-common"><strong>db-common</strong></a><br />
+      Shared, tree-shakeable TypeScript database utilities for Node projects.</p>
+      <p><a href="https://docs.torcato.dev/db-common/" title="Docs"><img src="icons/links/docs.svg" width="20" height="20" alt="db-common docs" /></a>&emsp;<a href="https://www.npmjs.com/package/@rtorcato/db-common" title="npm"><img src="icons/links/npm.svg" width="20" height="20" alt="db-common on npm" /></a>&emsp;<a href="https://github.com/rtorcato/db-common" title="GitHub"><img src="icons/links/github.svg" width="20" height="20" alt="db-common on GitHub" /></a></p>
     </td>
   </tr>
   <tr>
@@ -79,18 +79,18 @@ Open-source TypeScript and Swift packages. They share the same conventions and r
         <source media="(prefers-color-scheme: dark)" srcset="icons/cf-common-dark.svg" />
         <img src="icons/cf-common.svg" width="40" height="40" align="left" alt="" />
       </picture>
-      <a href="https://github.com/rtorcato/cf-common"><strong>cf-common</strong></a><br />
-      Typed TypeScript wrappers and helpers for Cloudflare bindings and APIs.
-      <p><a href="https://docs.torcato.dev/cf-common/">Docs ↗</a> · <a href="https://www.npmjs.com/package/@rtorcato/cf-common">npm ↗</a> · <a href="https://github.com/rtorcato/cf-common">GitHub ↗</a></p>
+      <p><a href="https://github.com/rtorcato/cf-common"><strong>cf-common</strong></a><br />
+      Typed TypeScript wrappers and helpers for Cloudflare bindings and APIs.</p>
+      <p><a href="https://docs.torcato.dev/cf-common/" title="Docs"><img src="icons/links/docs.svg" width="20" height="20" alt="cf-common docs" /></a>&emsp;<a href="https://www.npmjs.com/package/@rtorcato/cf-common" title="npm"><img src="icons/links/npm.svg" width="20" height="20" alt="cf-common on npm" /></a>&emsp;<a href="https://github.com/rtorcato/cf-common" title="GitHub"><img src="icons/links/github.svg" width="20" height="20" alt="cf-common on GitHub" /></a></p>
     </td>
     <td width="50%" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="icons/react-common-dark.svg" />
         <img src="icons/react-common.svg" width="40" height="40" align="left" alt="" />
       </picture>
-      <a href="https://github.com/rtorcato/react-common"><strong>react-common</strong></a><br />
-      Published React 19 component library — shared UI primitives.
-      <p><a href="https://docs.torcato.dev/react-common/">Docs ↗</a> · <a href="https://www.npmjs.com/package/@rtorcato/react-common">npm ↗</a> · <a href="https://github.com/rtorcato/react-common">GitHub ↗</a></p>
+      <p><a href="https://github.com/rtorcato/react-common"><strong>react-common</strong></a><br />
+      Published React 19 component library — shared UI primitives.</p>
+      <p><a href="https://docs.torcato.dev/react-common/" title="Docs"><img src="icons/links/docs.svg" width="20" height="20" alt="react-common docs" /></a>&emsp;<a href="https://www.npmjs.com/package/@rtorcato/react-common" title="npm"><img src="icons/links/npm.svg" width="20" height="20" alt="react-common on npm" /></a>&emsp;<a href="https://github.com/rtorcato/react-common" title="GitHub"><img src="icons/links/github.svg" width="20" height="20" alt="react-common on GitHub" /></a></p>
     </td>
   </tr>
   <tr>
@@ -99,18 +99,18 @@ Open-source TypeScript and Swift packages. They share the same conventions and r
         <source media="(prefers-color-scheme: dark)" srcset="icons/supabase-common-dark.svg" />
         <img src="icons/supabase-common.svg" width="40" height="40" align="left" alt="" />
       </picture>
-      <a href="https://github.com/rtorcato/supabase-common"><strong>supabase-common</strong></a><br />
-      Shared, tree-shakeable TypeScript helpers for Supabase — client, auth, and database utilities.
-      <p><a href="https://docs.torcato.dev/supabase-common/">Docs ↗</a> · <a href="https://www.npmjs.com/package/@rtorcato/supabase-common">npm ↗</a> · <a href="https://github.com/rtorcato/supabase-common">GitHub ↗</a></p>
+      <p><a href="https://github.com/rtorcato/supabase-common"><strong>supabase-common</strong></a><br />
+      Shared, tree-shakeable TypeScript helpers for Supabase — client, auth, and database utilities.</p>
+      <p><a href="https://docs.torcato.dev/supabase-common/" title="Docs"><img src="icons/links/docs.svg" width="20" height="20" alt="supabase-common docs" /></a>&emsp;<a href="https://www.npmjs.com/package/@rtorcato/supabase-common" title="npm"><img src="icons/links/npm.svg" width="20" height="20" alt="supabase-common on npm" /></a>&emsp;<a href="https://github.com/rtorcato/supabase-common" title="GitHub"><img src="icons/links/github.svg" width="20" height="20" alt="supabase-common on GitHub" /></a></p>
     </td>
     <td width="50%" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="icons/swift-common-dark.svg" />
         <img src="icons/swift-common.svg" width="40" height="40" align="left" alt="" />
       </picture>
-      <a href="https://github.com/rtorcato/swift-common"><strong>swift-common</strong></a><br />
-      SwiftUI package of reusable views and helpers to build apps faster.
-      <p><a href="https://docs.torcato.dev/swift-common/">Docs ↗</a> · <a href="https://github.com/rtorcato/swift-common">GitHub ↗</a></p>
+      <p><a href="https://github.com/rtorcato/swift-common"><strong>swift-common</strong></a><br />
+      SwiftUI package of reusable views and helpers to build apps faster.</p>
+      <p><a href="https://docs.torcato.dev/swift-common/" title="Docs"><img src="icons/links/docs.svg" width="20" height="20" alt="swift-common docs" /></a>&emsp;<a href="https://github.com/rtorcato/swift-common" title="GitHub"><img src="icons/links/github.svg" width="20" height="20" alt="swift-common on GitHub" /></a></p>
     </td>
   </tr>
 </table>
@@ -124,18 +124,18 @@ Open-source TypeScript and Swift packages. They share the same conventions and r
         <source media="(prefers-color-scheme: dark)" srcset="icons/repo-tooling-dark.svg" />
         <img src="icons/repo-tooling.svg" width="40" height="40" align="left" alt="" />
       </picture>
-      <a href="https://github.com/rtorcato/repo-tooling"><strong>repo-tooling</strong></a><br />
-      One wizard to scaffold TypeScript, linting, testing, and releases for any JS project.
-      <p><a href="https://docs.torcato.dev/repo-tooling/">Docs ↗</a> · <a href="https://www.npmjs.com/package/@rtorcato/repo-tooling">npm ↗</a> · <a href="https://github.com/rtorcato/repo-tooling">GitHub ↗</a></p>
+      <p><a href="https://github.com/rtorcato/repo-tooling"><strong>repo-tooling</strong></a><br />
+      One wizard to scaffold TypeScript, linting, testing, and releases for any JS project.</p>
+      <p><a href="https://docs.torcato.dev/repo-tooling/" title="Docs"><img src="icons/links/docs.svg" width="20" height="20" alt="repo-tooling docs" /></a>&emsp;<a href="https://www.npmjs.com/package/@rtorcato/repo-tooling" title="npm"><img src="icons/links/npm.svg" width="20" height="20" alt="repo-tooling on npm" /></a>&emsp;<a href="https://github.com/rtorcato/repo-tooling" title="GitHub"><img src="icons/links/github.svg" width="20" height="20" alt="repo-tooling on GitHub" /></a></p>
     </td>
     <td width="50%" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="icons/repo-ai-dark.svg" />
         <img src="icons/repo-ai.svg" width="40" height="40" align="left" alt="" />
       </picture>
-      <a href="https://github.com/rtorcato/repo-ai"><strong>repo-ai</strong></a><br />
-      Turns ai-ready GitHub issues into reviewed PRs — one worktree per issue, two agent reviewers.
-      <p><a href="https://docs.torcato.dev/repo-ai/">Docs ↗</a> · <a href="https://www.npmjs.com/package/@rtorcato/repo-ai">npm ↗</a> · <a href="https://github.com/rtorcato/repo-ai">GitHub ↗</a></p>
+      <p><a href="https://github.com/rtorcato/repo-ai"><strong>repo-ai</strong></a><br />
+      Turns ai-ready GitHub issues into reviewed PRs — one worktree per issue, two agent reviewers.</p>
+      <p><a href="https://docs.torcato.dev/repo-ai/" title="Docs"><img src="icons/links/docs.svg" width="20" height="20" alt="repo-ai docs" /></a>&emsp;<a href="https://www.npmjs.com/package/@rtorcato/repo-ai" title="npm"><img src="icons/links/npm.svg" width="20" height="20" alt="repo-ai on npm" /></a>&emsp;<a href="https://github.com/rtorcato/repo-ai" title="GitHub"><img src="icons/links/github.svg" width="20" height="20" alt="repo-ai on GitHub" /></a></p>
     </td>
   </tr>
   <tr>
@@ -144,18 +144,18 @@ Open-source TypeScript and Swift packages. They share the same conventions and r
         <source media="(prefers-color-scheme: dark)" srcset="icons/brand-kit-dark.svg" />
         <img src="icons/brand-kit.svg" width="40" height="40" align="left" alt="" />
       </picture>
-      <a href="https://github.com/rtorcato/brand-kit"><strong>brand-kit</strong></a><br />
-      Banner, social card and favicon for any repo.
-      <p><a href="https://docs.torcato.dev/brand-kit/">Docs ↗</a> · <a href="https://www.npmjs.com/package/@rtorcato/brand-kit">npm ↗</a> · <a href="https://github.com/rtorcato/brand-kit">GitHub ↗</a></p>
+      <p><a href="https://github.com/rtorcato/brand-kit"><strong>brand-kit</strong></a><br />
+      Banner, social card and favicon for any repo.</p>
+      <p><a href="https://docs.torcato.dev/brand-kit/" title="Docs"><img src="icons/links/docs.svg" width="20" height="20" alt="brand-kit docs" /></a>&emsp;<a href="https://www.npmjs.com/package/@rtorcato/brand-kit" title="npm"><img src="icons/links/npm.svg" width="20" height="20" alt="brand-kit on npm" /></a>&emsp;<a href="https://github.com/rtorcato/brand-kit" title="GitHub"><img src="icons/links/github.svg" width="20" height="20" alt="brand-kit on GitHub" /></a></p>
     </td>
     <td width="50%" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="icons/homelab-nut-dark.svg" />
         <img src="icons/homelab-nut.svg" width="40" height="40" align="left" alt="" />
       </picture>
-      <a href="https://github.com/rtorcato/homelab-nut"><strong>homelab-nut</strong></a><br />
-      Homelab UPS / NUT shutdown automation.
-      <p><a href="https://rtorcato.github.io/homelab-nut/">Docs ↗</a> · <a href="https://github.com/rtorcato/homelab-nut">GitHub ↗</a></p>
+      <p><a href="https://github.com/rtorcato/homelab-nut"><strong>homelab-nut</strong></a><br />
+      Homelab UPS / NUT shutdown automation.</p>
+      <p><a href="https://rtorcato.github.io/homelab-nut/" title="Docs"><img src="icons/links/docs.svg" width="20" height="20" alt="homelab-nut docs" /></a>&emsp;<a href="https://github.com/rtorcato/homelab-nut" title="GitHub"><img src="icons/links/github.svg" width="20" height="20" alt="homelab-nut on GitHub" /></a></p>
     </td>
   </tr>
 </table>
