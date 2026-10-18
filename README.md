@@ -148,6 +148,13 @@ Open-source TypeScript and Swift packages. They share the same conventions and r
       Banner, social card and favicon for any repo.</p>
       <p><a href="https://docs.torcato.dev/brand-kit/" title="Docs"><img src="icons/links/docs.svg" width="20" height="20" alt="brand-kit docs" /></a>&emsp;<a href="https://www.npmjs.com/package/@rtorcato/brand-kit" title="npm"><img src="icons/links/npm.svg" width="20" height="20" alt="brand-kit on npm" /></a>&emsp;<a href="https://github.com/rtorcato/brand-kit" title="GitHub"><img src="icons/links/github.svg" width="20" height="20" alt="brand-kit on GitHub" /></a></p>
     </td>
+  </tr>
+</table>
+
+### Homelab
+
+<table>
+  <tr>
     <td width="50%" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="icons/homelab-nut-dark.svg" />
@@ -165,9 +172,6 @@ Open-source TypeScript and Swift packages. They share the same conventions and r
 ## 📊 Stats
 
 <p align="center">
-  <a href="https://github.com/rtorcato?tab=followers">
-    <img src="https://img.shields.io/github/followers/rtorcato?style=for-the-badge&logo=github&label=Followers&color=24292e" alt="GitHub followers" />
-  </a>
   <a href="https://github.com/rtorcato?tab=repositories">
     <img src="https://img.shields.io/github/stars/rtorcato?style=for-the-badge&logo=github&label=Total%20stars&color=24292e" alt="Total stars" />
   </a>
