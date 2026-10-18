@@ -177,9 +177,9 @@ Open-source TypeScript and Swift packages. They share the same conventions and r
 
 ## 🛠️ Tech I work in
 
-**Web (current):** TypeScript · Next.js · React · Node.js · Vite · TailwindCSS
-**Web (deep history):** JavaScript · Redux · Apollo GraphQL · jQuery · Angular · PHP · Laravel · ASP.NET · C#
-**Backend & data:** Node.js · Express microservices · REST · MySQL · MongoDB · MSSQL · FileMaker
-**Infra & tooling:** Docker · AWS · DigitalOcean · Nginx · GitHub Actions · semantic-release · Webpack · Vite
-**Creative:** Photoshop · Illustrator · Sketch · Premiere · After Effects · Final Cut Pro
-**Apple:** Swift · SwiftUI · UIKit · AppKit · SwiftPM
+- **Web (current):** TypeScript · Next.js · React · Node.js · Vite · TailwindCSS
+- **Web (deep history):** JavaScript · Redux · Apollo GraphQL · jQuery · Angular · PHP · Laravel · ASP.NET · C#
+- **Backend & data:** Node.js · Express microservices · REST · MySQL · MongoDB · MSSQL · FileMaker
+- **Infra & tooling:** Docker · AWS · DigitalOcean · Nginx · GitHub Actions · semantic-release · Webpack · Vite
+- **Creative:** Photoshop · Illustrator · Sketch · Premiere · After Effects · Final Cut Pro
+- **Apple:** Swift · SwiftUI · UIKit · AppKit · SwiftPM
