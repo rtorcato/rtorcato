@@ -14,7 +14,7 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
 
 💼 **LinkedIn:** [linkedin.com/in/rtorcato](https://www.linkedin.com/in/rtorcato/)
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/rtorcato)
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" height="40">](https://buymeacoffee.com/rtorcato)
 
 ## 🐍 Activity
 
