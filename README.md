@@ -1,6 +1,11 @@
-# Richard Torcato
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="banner/narrow-dark.svg" />
+  <source media="(max-width: 600px)" srcset="banner/narrow-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="banner/wide-dark.svg" />
+  <img alt="Richard Torcato, senior full-stack developer" src="banner/wide-light.svg" width="100%" />
+</picture>
 
-**Senior Full Stack Application Developer · 30+ years shipping web and interactive applications**
+**Senior Full Stack Application Developer · Shipping web and interactive applications**
 
 I'm a full-stack developer who has built internet and interactive applications for major Canadian corporations and marketing firms (IBM, Manulife, Flight Centre, and many more) since the late 90s. I run projects independently from concept through production deployment — backend, frontend, infrastructure, and design.
 
