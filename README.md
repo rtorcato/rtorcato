@@ -150,6 +150,15 @@ Open-source TypeScript and Swift packages. They share the same conventions and r
       Banner, social card and favicon for any repo.</p>
       <p><a href="https://docs.torcato.dev/brand-kit/"><img src="icons/links/docs.svg" width="20" height="20" alt="brand-kit docs" /></a>&emsp;<a href="https://www.npmjs.com/package/@rtorcato/brand-kit"><img src="icons/links/npm.svg" width="20" height="20" alt="brand-kit on npm" /></a>&emsp;<a href="https://github.com/rtorcato/brand-kit"><img src="icons/links/github.svg" width="20" height="20" alt="brand-kit on GitHub" /></a></p>
     </td>
+    <td width="50%" valign="top">
+      <a href="https://docs.torcato.dev/buzz-dashboard/"><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icons/buzz-dashboard-dark.svg" />
+        <img src="icons/buzz-dashboard.svg" width="40" height="40" align="left" alt="" />
+      </picture></a>
+      <p><a href="https://docs.torcato.dev/buzz-dashboard/"><strong>buzz-dashboard</strong></a><br />
+      Read-only view of a Buzz agent hive: what is running and what needs you.</p>
+      <p><a href="https://docs.torcato.dev/buzz-dashboard/"><img src="icons/links/docs.svg" width="20" height="20" alt="buzz-dashboard docs" /></a></p>
+    </td>
   </tr>
 </table>
 
