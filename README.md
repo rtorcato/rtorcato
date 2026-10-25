@@ -57,7 +57,7 @@ Open-source TypeScript and Swift packages. They share the same conventions and r
       </picture></a>
       <p><a href="https://docs.torcato.dev/api-common/"><strong>api-common</strong></a><br />
       Framework-agnostic building blocks for Node.js APIs — errors, auth, rate limiting, OpenAPI, Express + Hono.</p>
-      <p><a href="https://docs.torcato.dev/api-common/"><img src="icons/links/docs.svg" width="20" height="20" alt="api-common docs" /></a>&emsp;<a href="https://github.com/rtorcato/api-common"><img src="icons/links/github.svg" width="20" height="20" alt="api-common on GitHub" /></a></p>
+      <p><a href="https://docs.torcato.dev/api-common/"><img src="icons/links/docs.svg" width="20" height="20" alt="api-common docs" /></a>&emsp;<a href="https://www.npmjs.com/search?q=%40rtorcato%2Fapi-"><img src="icons/links/npm.svg" width="20" height="20" alt="api-common packages on npm" /></a>&emsp;<a href="https://github.com/rtorcato/api-common"><img src="icons/links/github.svg" width="20" height="20" alt="api-common on GitHub" /></a></p>
     </td>
   </tr>
   <tr>
