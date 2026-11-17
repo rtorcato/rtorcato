@@ -33,6 +33,42 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
 
 ## 🌟 Featured projects
 
+### Products
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://rtorcato.github.io/homelab-nut/"><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icons/homelab-nut-dark.svg" />
+        <img src="icons/homelab-nut.svg" width="40" height="40" align="left" alt="" />
+      </picture></a>
+      <p><a href="https://rtorcato.github.io/homelab-nut/"><strong>homelab-nut</strong></a><br />
+      Homelab UPS / NUT shutdown automation.<br /><img src="icons/spacer.svg" width="2000" height="22" alt="" /></p>
+      <p><a href="https://rtorcato.github.io/homelab-nut/"><img src="icons/links/docs.svg" width="20" height="20" alt="homelab-nut docs" /></a>&emsp;<a href="https://github.com/rtorcato/homelab-nut"><img src="icons/links/github.svg" width="20" height="20" alt="homelab-nut on GitHub" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rtorcato/pentest"><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icons/pentest-dark.svg" />
+        <img src="icons/pentest.svg" width="40" height="40" align="left" alt="" />
+      </picture></a>
+      <p><a href="https://github.com/rtorcato/pentest"><strong>pentest</strong></a><br />
+      Docker-based security sweep with a ranked Markdown report.</p>
+      <p><a href="https://github.com/rtorcato/pentest"><img src="icons/links/github.svg" width="20" height="20" alt="pentest on GitHub" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://docs.torcato.dev/buzz-dashboard/"><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icons/buzz-dashboard-dark.svg" />
+        <img src="icons/buzz-dashboard.svg" width="40" height="40" align="left" alt="" />
+      </picture></a>
+      <p><a href="https://docs.torcato.dev/buzz-dashboard/"><strong>buzz-dashboard</strong></a><br />
+      Read-only view of a Buzz agent hive: what is running and what needs you.</p>
+      <p><a href="https://docs.torcato.dev/buzz-dashboard/"><img src="icons/links/docs.svg" width="20" height="20" alt="buzz-dashboard docs" /></a></p>
+    </td>
+  </tr>
+</table>
+
 Open-source TypeScript and Swift packages. They share the same conventions and release pipeline. More at [torcato.dev](https://torcato.dev).
 
 <!-- Taglines come from shared-docs src/family.ts. Icons in icons/ are copies of each repo's apps/docs/static/img/logo-dark.svg (dark) and logo.svg (light); update them here when the marks change. -->
@@ -154,42 +190,6 @@ Open-source TypeScript and Swift packages. They share the same conventions and r
       <p><a href="https://docs.torcato.dev/brand-kit/"><strong>brand-kit</strong></a><br />
       Banner, social card and favicon for any repo.</p>
       <p><a href="https://docs.torcato.dev/brand-kit/"><img src="icons/links/docs.svg" width="20" height="20" alt="brand-kit docs" /></a>&emsp;<a href="https://www.npmjs.com/package/@rtorcato/brand-kit"><img src="icons/links/npm.svg" width="20" height="20" alt="brand-kit on npm" /></a>&emsp;<a href="https://github.com/rtorcato/brand-kit"><img src="icons/links/github.svg" width="20" height="20" alt="brand-kit on GitHub" /></a></p>
-    </td>
-  </tr>
-</table>
-
-### Products
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://rtorcato.github.io/homelab-nut/"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="icons/homelab-nut-dark.svg" />
-        <img src="icons/homelab-nut.svg" width="40" height="40" align="left" alt="" />
-      </picture></a>
-      <p><a href="https://rtorcato.github.io/homelab-nut/"><strong>homelab-nut</strong></a><br />
-      Homelab UPS / NUT shutdown automation.<br /><img src="icons/spacer.svg" width="2000" height="22" alt="" /></p>
-      <p><a href="https://rtorcato.github.io/homelab-nut/"><img src="icons/links/docs.svg" width="20" height="20" alt="homelab-nut docs" /></a>&emsp;<a href="https://github.com/rtorcato/homelab-nut"><img src="icons/links/github.svg" width="20" height="20" alt="homelab-nut on GitHub" /></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/rtorcato/pentest"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="icons/pentest-dark.svg" />
-        <img src="icons/pentest.svg" width="40" height="40" align="left" alt="" />
-      </picture></a>
-      <p><a href="https://github.com/rtorcato/pentest"><strong>pentest</strong></a><br />
-      Docker-based security sweep with a ranked Markdown report.</p>
-      <p><a href="https://github.com/rtorcato/pentest"><img src="icons/links/github.svg" width="20" height="20" alt="pentest on GitHub" /></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://docs.torcato.dev/buzz-dashboard/"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="icons/buzz-dashboard-dark.svg" />
-        <img src="icons/buzz-dashboard.svg" width="40" height="40" align="left" alt="" />
-      </picture></a>
-      <p><a href="https://docs.torcato.dev/buzz-dashboard/"><strong>buzz-dashboard</strong></a><br />
-      Read-only view of a Buzz agent hive: what is running and what needs you.</p>
-      <p><a href="https://docs.torcato.dev/buzz-dashboard/"><img src="icons/links/docs.svg" width="20" height="20" alt="buzz-dashboard docs" /></a></p>
     </td>
   </tr>
 </table>
