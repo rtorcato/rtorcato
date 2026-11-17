@@ -167,9 +167,9 @@ Open-source TypeScript and Swift packages. They share the same conventions and r
   </tr>
 </table>
 
-### Homelab
+### Products
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <a href="https://rtorcato.github.io/homelab-nut/"><picture>
