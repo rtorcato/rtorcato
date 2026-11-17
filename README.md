@@ -177,7 +177,7 @@ Open-source TypeScript and Swift packages. They share the same conventions and r
         <img src="icons/homelab-nut.svg" width="40" height="40" align="left" alt="" />
       </picture></a>
       <p><a href="https://rtorcato.github.io/homelab-nut/"><strong>homelab-nut</strong></a><br />
-      Homelab UPS / NUT shutdown automation.</p>
+      Homelab UPS / NUT shutdown automation.<br />&nbsp;<img src="icons/spacer.svg" width="2000" height="1" alt="" /></p>
       <p><a href="https://rtorcato.github.io/homelab-nut/"><img src="icons/links/docs.svg" width="20" height="20" alt="homelab-nut docs" /></a>&emsp;<a href="https://github.com/rtorcato/homelab-nut"><img src="icons/links/github.svg" width="20" height="20" alt="homelab-nut on GitHub" /></a></p>
     </td>
     <td width="50%" valign="top">
@@ -189,9 +189,6 @@ Open-source TypeScript and Swift packages. They share the same conventions and r
       Docker-based security sweep with a ranked Markdown report.</p>
       <p><a href="https://github.com/rtorcato/pentest"><img src="icons/links/github.svg" width="20" height="20" alt="pentest on GitHub" /></a></p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="icons/spacer.svg" width="2000" height="1" alt="" /></td>
   </tr>
 </table>
 
