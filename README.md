@@ -190,6 +190,9 @@ Open-source TypeScript and Swift packages. They share the same conventions and r
       <p><a href="https://github.com/rtorcato/pentest"><img src="icons/links/github.svg" width="20" height="20" alt="pentest on GitHub" /></a></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2"><img src="icons/spacer.svg" width="2000" height="1" alt="" /></td>
+  </tr>
 </table>
 
 ---
