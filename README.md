@@ -66,6 +66,15 @@ Today I work across the modern web stack (TypeScript, Next.js, React, Node.js) a
       Read-only view of a Buzz agent hive: what is running and what needs you.</p>
       <p><a href="https://docs.torcato.dev/buzz-dashboard/"><img src="icons/links/docs.svg" width="20" height="20" alt="buzz-dashboard docs" /></a></p>
     </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rtorcato/video-ai"><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icons/video-ai-dark.svg" />
+        <img src="icons/video-ai.svg" width="40" height="40" align="left" alt="" />
+      </picture></a>
+      <p><a href="https://github.com/rtorcato/video-ai"><strong>video-ai</strong></a><br />
+      Agent skills for explainer videos: HTML scenes, ffmpeg, and editable DaVinci Resolve timelines.</p>
+      <p><a href="https://github.com/rtorcato/video-ai"><img src="icons/links/github.svg" width="20" height="20" alt="video-ai on GitHub" /></a></p>
+    </td>
   </tr>
 </table>
 
